@@ -1,0 +1,54 @@
+body {background:#babdc1;}
+.setting-menu {background:#1267A5;}
+
+@media (min-width: 576px) and (max-width: 767.98px) { 
+	.bg {background:red ;} 
+}
+		/*footer*/
+.footer {
+	background: url(../images/f-bg.jpg) center;
+}
+.footer .list-group-item{
+	padding: 0.20rem 0rem;
+	border: 0;
+	background: transparent;
+}
+.footer p, .footer a{
+	color: #6E7B97;	
+}
+.footer i{
+	font-size: 22px;
+}
+		/*footer buttom*/
+.footerBottum{
+	background: #1267A5;
+	color: black;
+}
+		/*Contact*/
+.breadcrumb{
+	background-color: transparent;
+}
+.content-contact{
+	margin-left: 20px;
+}
+		/*About*/
+.about h1{
+	font-size: 4rem;
+	font-weight: bold;
+}
+.about .primary{
+	font-size: 20px;
+}
+.about .list-group-item{
+	padding: 0.20rem 0rem;
+	border: 0;
+	list-style: none;
+	background: transparent;
+}
+		/*login*/
+.login{
+	margin-bottom: 10px;
+}
+.signuptop{
+	text-align: center;
+}
