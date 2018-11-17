@@ -10,7 +10,7 @@
     <link rel="stylesheet" type="text/css" href="<?php echo base_url(); ?>/assets/css/custom.css">
     <link rel="stylesheet" type="text/css" href="<?php echo base_url(); ?>/assets/fontawesome/css/fontawesome-all.min.css">
 
-    <title>Learning Space</title>
+    <title>Learning</title>
   </head>
   <body>
     <!--header-->
