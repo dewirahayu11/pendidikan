@@ -24,10 +24,10 @@
         <link href="<?php echo base_url(); ?>/assets/vendors/elegant-icon/style.css" rel="stylesheet">
         <link href="<?php echo base_url(); ?>/assets/vendors/themify-icon/themify-icons.css" rel="stylesheet">
 
-    <title>Learning Space</title>
+    <title>LearningSpace</title>
   </head>
   <body>
-     <header class="main_menu_area">
+    <header class="main_menu_area">
             <nav class="navbar navbar-expand-lg navbar-light bg-light" id="mainNav">
                 <a class="navbar-brand" href="#"><img src="<?php echo base_url(); ?>/assets/images/logo.png" alt=""></a>
                 <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
@@ -46,18 +46,18 @@
                     </ul>
                     <ul class="navbar-nav justify-content-end">
                         <li><a href="#"><i class="icon_search"></i></a></li>
-                        <li><a href="#"><i class="icon_lock"></i></a></li>
+                        <li><a href="login"><i class="icon_lock"></i></a></li>
                     </ul>
                 </div>
             </nav>
-        </header>
+        </header> 
 
     <div class="container-fluid banner pb-5">
       <div class="container">
         <div class="row py-5">
           <div class="col-md-12 py-5">
-           <h1 class="display-3 text-center">About Us</h1>
-            <h4 class="text-muted m-2 text-center">"Sosial Media are Tools Real time is a <b>mindset</b>" <br> <i>-David Meerman Scott</i></h4>
+            <h1 class="display-3 text-center">Make Your Dream Comes True</h1>
+            <h4 class="text-muted m-2 text-center">"Education is the most powerful weapon which you can see to change the world" <br> <i>Nelson Mandela</i></h4>
           </div>
         </div>
       </div>
@@ -68,28 +68,130 @@
         <div class="col-md-6 my-3">
           <hr>
           <h1>Learn About Us</h1>
-          <p class="justify-content-end">Pendidikan merupakan salah satu faktor utama dalam pembentukan pribadi manusia secara normatif baik untuk kalangan pelajar maupun kalangan umum. Secara garis besar pendidikan bertujuan untuk mencerdaskan kehidupan bangsa dan mengembangkan manusia yang seutuhnya yaitu beriman dan bertakwa kepada Tuhan Yang Maha Esa dan berbudi pekerti luhur, memiliki pengetahuan dan keterampilan, kesehatan jasmani dan rohani, kepribadian yang tangguh dan mandiri serta rasa bertanggung jawab.</p>
+          <p class="text-primary">Pendidikan adalah proses pengubahan sikap dan tata laku seseorang atau kelompok orang dalam usaha mendewasakan manusia melalui upaya pengajaran dan pelatihan</p>
+          <p>Pendidikan merupakan salah satu faktor utama dalam pembentukan pribadi manusia secara normatif baik untuk kalangan pelajar maupun kalangan umum.</p>
+          <ul class="list-group">
+            <li class="list-group-item"><i class="far fa-check-circle"></i>Meningkatkan Mutu Pembelajaran</li>
+            <li class="list-group-item"><i class="far fa-check-circle"></i>Meningkatkan Kualitas Pengajaran</li>
+            <li class="list-group-item"><i class="far fa-check-circle"></i>Mewujudkan Pembelajaran Yang Inovatif</li>
+          </ul>
+          <a class="my-3" href="">Read More...</a>
         </div>
-        <div class="col-md-6 my-3">
+        <div class="col-md-6">
           <div class="d_feature_img">
             <img src="<?php echo base_url(); ?>/assets/images/abou1.jpg" alt="">
           </div>
         </div>
       </div>
     </div>
+  <!-- END LEARN -->
+  <!--================Our Service Area =================-->
     <section class="service_area">
             <div class="container">
                 <div class="center_title">
                     <h2>Our Product</h2>
-                    <p>Seperti yang kita ketahui bahwa pendidikan khususnya disekolah dasar masih banyak kekurangan dalam pembelajaran berbasis internet, dan biasanya siswa siswi menggunakan smartphone-nya hanya untuk bermain game demi kesenangan pribadi, yang kemudian membuat lupa akan kewajiban sebagai seorang pelajar, dimana kewajiban seorang pelajar adalah belajar dengan giat untuk meningkatkan prestasinya di sekolah.</p>
-                    <p>Dengan adanya kemajuan teknologi saat ini yang berbasis internet, oleh karena itu kami berinisiatif untuk membuat sebuah aplikasi web yang berjudul “Learning Space”. Learning Space merupakan aplikasi yang menyediakan ruang belajar untuk dapat diakses oleh kalangan umum khususnya bagi para siswa siswi sekolah dasar. Sehingga teknologi yang mereka gunakan tidak sia-sia begitu saja.</p>
+                    <p>We Are A The Volunteer Who Cares About Education in Indonesia, Especialy in Country Side. We Are Focused on Growing Childern to be a Good Person. So, We Concern to Educate Elementry School.</p>
+                </div>
+                <div class="row service_item_inner">
+                    <div class="col-lg-4">
+                        <div class="service_item">
+                            <i class="ti-pencil"></i>
+                            <h4>Kelas 1</h4>
+                            <p>This Class Will Discuss About Fundamental of Education on Academic sector. This Class consist of Math, Language and Religion of Islam</p>
+                        </div>
+                    </div>
+                    <div class="col-lg-4">
+                        <div class="service_item">
+                            <i class="ti-book"></i>
+                            <h4>Kelas 2</h4>
+                            <p>This Class Will Discuss About Fundamental of Education on Academic sector. This Class consist of Math, Language and Religion of Islam</p>
+                        </div>
+                    </div>
+                    <div class="col-lg-4">
+                        <div class="service_item">
+                            <i class="ti-ruler-pencil"></i>
+                            <h4>Kelas 3</h4>
+                            <p>This Class Will Discuss About Fundamental of Education on Academic sector. This Class consist of Math, Language, Religion of Islam and Athletics</p>
+                        </div>
+                    </div> 
+                </div>
+                <div class="row">
+                  <div class="col-md-4"></div>
+                  <div class="col-md-4 rMore my-3">
+                    <a class="" href="">Read More</a>
+                  </div> 
+                  <div class="col-md-4"></div>
                 </div>
             </div>
         </section>
-  <!-- END LEARN -->
-    
+        <!--================End Our Service Area =================-->    
+    <div class="container-fluid bg-light features">
+      <div class="container">
+        <div class="row pt-5">
+          <div class="col-md-12 text-center">
+            <h1>Our Team</h1>
+            <p>Kebersamaan adalah permulaan. Menjaga bersama adalah kemajuan. Bekerja bersama adalah keberhasilan</p>
+          </div>
+        </div>
+        <div class="row py-5">
+          <div class="col-md-4 mt-2">
+            <div class="card">
+              <img class="card-img-top" src="<?php echo base_url(); ?>/assets/images/nama_shella.png" alt="Card image cap">
+              <div class="card-body">
+                <h5 class="card-title">Shella Intia</h5>
+                <p class="card-text">We believe that specialization is the key element to the success.</p>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-4 mt-2">
+            <div class="card">
+              <img class="card-img-top" src="<?php echo base_url(); ?>/assets/images/nama_sally.png" alt="Card image cap">
+              <div class="card-body">
+                <h5 class="card-title">Sally Rosiani</h5>
+                <p class="card-text">We believe that specialization is the key element to the success.</p>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-4 mt-2">
+            <div class="card">
+              <img class="card-img-top" src="<?php echo base_url(); ?>/assets/images/nama_sartiah.png" alt="Card image cap">
+              <div class="card-body">
+                <h5 class="card-title">Sartiah</h5>
+                <p class="card-text">We believe that specialization is the key element to the success..</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
     <!-- END FEATURES -->
-     <div class="container-fluid py-5 text-white footer">
+    <section id="ourclient">
+    <div class="container-fluid client">
+      <div class="container">
+        <div class="row pt-5">
+          <div class="col-md-12 text-center">
+            <h1>OUR BIBLIOGRAPHY</h1>
+          </div>
+        </div>
+        <div class="row text-center py-5">
+          <div class="col-md-3">
+            <img src="<?php echo base_url(); ?>/assets/images/dumet.png" class="img-fluid">
+          </div>
+          <div class="col-md-3">
+            <img src="<?php echo base_url(); ?>/assets/images/GitHub.png" class="img-fluid">
+          </div>
+          <div class="col-md-3">
+            <img src="<?php echo base_url(); ?>/assets/images/clogo-3.png" class="img-fluid">
+          </div>
+          <div class="col-md-3">
+            <img src="<?php echo base_url(); ?>/assets/images/clogo-4.png" class="img-fluid">
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- END FEATURES -->
+    <div class="container-fluid py-5 text-white footer">
       <div class="conteiner">
         <div class="row">
           <div class="col-md-5">
