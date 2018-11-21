@@ -50,13 +50,13 @@
                     </ul>
                 </div>
             </nav>
-        </header>
+        </header> 
 
     <div class="container-fluid banner pb-5">
       <div class="container">
         <div class="row py-5">
           <div class="col-md-12 text-white">
-           <h3 class="text-center m-2"><br></br> "PANDUAN" </h3>
+           <h3 class="text-center m-2"><br></br> "SYARAT DAN KETENTUAN" </h3>
           </div>
         </div>
       </div>
@@ -67,15 +67,43 @@
         <div class="col-md-12">
               <div class="container text-center">
                 <hr>
-                <span align="justify"><p> Panduan adalah sebuah homonim karena arti-artinya memiliki ejaan dan pelafalan yang sama tetapi maknanya berbeda. Panduan memiliki arti dalam kelas nomina atau kata benda sehingga panduan dapat menyatakan nama dari seseorang, tempat, atau semua benda dan segala yang dibendakan.<p></span>
-                <hr>
-                <br></br>
-                <div class="container text-left">
-                <p><b> Panduan Registrasi </b></p>
-                <p> 1. Masuk ke halaman about product. <br>2. Dimana di halaman our product mempunyai halaman login. <br>3. Mengklik kolom registrasi di bawah halaman login. <br>4. Setelah itu akan diarahakan ke menu registrasi. <br>5. Ada Beberapa form yang harus di isi sesuai dengan data yang ada. <br>6. Setelah mengisi data klik tombol submit. <br>7. Akan diarahakan ke menu login kembali. <br>8. Kemudian login kembali setelah registrasi. <br>9. Apabila berhasil masuk ke menu our product apabila salah akan muncul tulisan login gagal. <br>10. Proses registrasi selesai. </p>
               </div>
               <div class="row">
-                <div class="col-md-12">      
+                <div class="col-md-12">
+                  <h6 class="text-center"> Sebelum melakukan akses dan menggunakan Learning<i>Space</i>, kami menyarankan anda agar membaca Peraturan Umum beserta Syarat dan Ketentuan terlebih dahulu. Dengan mengakses dan menggunakan Learning<i>Space</i>, Anda setuju untuk terikat dengan Peraturan Umum beserta Syarat dan ketentuan ini. </h6>
+                  <hr>
+                  <p><b>1. Pendaftaran </b>
+                  <br>
+                  a. Untuk registrasi atau pendaftaran pada Learning<i>Space</i>, anda harus mengisi semua kelengkapan biodata tanpa terkecuali dan menyertakan identitas asli anda.
+                  <br>
+                  b. Anda harus mencantumkan nama lengkap.
+                  <br>
+                  c. Alamat email yang dicantumkan harus alamat email yang valid
+                  <br>
+                  d. Anda harus Memasukkan Username dan password
+                  <br>
+                  e. Learning<i>Space</i> berhak menolak aplikasi pendaftaran Anda dengan alasan yang jelas.
+                  <hr>
+                  <p><b>2. Akun User </b>
+                  <br>
+                  a. Anda bertanggung jawab untuk menjaga kerahasiaan akun dan password membatasi akses ke komputer Anda.
+                  <br>
+                  b. Anda setuju bertanggung jawab atas semua yang terjadi perihal pengguna akun pribadi dan password Anda.
+                  <br>
+                  c. Anda setuju untuk memberitahukan Learning<i>Space</i> tentang setiap penyalahgunaan akun atau pelanggaran keamanan lainnya yang berkaitan dengan akun Anda.
+                  <br>
+                  d. Learning<i>Space</i> berhak untuk menolak layanan atau menghentikan akun.
+                  <hr>
+                  <p><b>3. Profil User </b>
+                  <br>
+                  a. Anda setuju untuk mengisi semua informasi pribadi seakurat mungkin.
+                  <br>
+                  b. Anda bertanggung jawab penuh atas semua materi yang ada di Learning<i>Space</i>.
+                  <hr>
+                  <p><b>4. Penggunaan Informasi </b>
+                  <br>
+                  Penggunaan informasi akun pada Learning<i>Space</i> diperbolehkan dengan syarat tetap pada ersetujuan pihak Learning<i>Space</i> tanpa melalui perantara dan segala hal yang berkaitan informasi adalah hak Learning<i>Space</i> sepenuhnya.
+
             </div>
           </div>
         </div>

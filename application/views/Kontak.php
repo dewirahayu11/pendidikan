@@ -50,13 +50,14 @@
                     </ul>
                 </div>
             </nav>
-        </header>
+        </header> 
 
     <div class="container-fluid banner pb-5">
       <div class="container">
         <div class="row py-5">
-          <div class="col-md-12 text-white">
-           <h3 class="text-center m-2"><br></br> "PANDUAN" </h3>
+          <div class="col-md-12 py-5">
+            <h1 class="display-3 text-center">Make Your Dream Comes True</h1>
+            <h4 class="text-muted m-2 text-center">"Education is the most powerful weapon which you can see to change the world" <br> <i>Nelson Mandela</i></h4>
           </div>
         </div>
       </div>
@@ -65,19 +66,40 @@
     <div class="container">
       <div class="row my-3">
         <div class="col-md-12">
-              <div class="container text-center">
-                <hr>
-                <span align="justify"><p> Panduan adalah sebuah homonim karena arti-artinya memiliki ejaan dan pelafalan yang sama tetapi maknanya berbeda. Panduan memiliki arti dalam kelas nomina atau kata benda sehingga panduan dapat menyatakan nama dari seseorang, tempat, atau semua benda dan segala yang dibendakan.<p></span>
-                <hr>
-                <br></br>
-                <div class="container text-left">
-                <p><b> Panduan Registrasi </b></p>
-                <p> 1. Masuk ke halaman about product. <br>2. Dimana di halaman our product mempunyai halaman login. <br>3. Mengklik kolom registrasi di bawah halaman login. <br>4. Setelah itu akan diarahakan ke menu registrasi. <br>5. Ada Beberapa form yang harus di isi sesuai dengan data yang ada. <br>6. Setelah mengisi data klik tombol submit. <br>7. Akan diarahakan ke menu login kembali. <br>8. Kemudian login kembali setelah registrasi. <br>9. Apabila berhasil masuk ke menu our product apabila salah akan muncul tulisan login gagal. <br>10. Proses registrasi selesai. </p>
+         <div class="row">
+           <div class="col-lg-6">
+              <div class="contact_text">
+                <div class="main_title">
+                  <h2>Contact Us</h2>
+                  <p>There are many ways to contact us. You may drop us a line, give us send an email</p>
+                </div>
+                <div class="contact_d_list">
+                  <div class="contact_d_list_item">
+                    <a href="#">Email : learningspace@gmail.com</a>
+                  </div>
+                  <div class="contact_d_list_item">
+                    <p>Alamat : </p>
+                    <p>Jalan Ryacudu Gang Hasan raya 
+                        Kel. Korpri Raya Kec. Sukarame 
+                        Bandar Lampung, Lampung <br /> Bandar Lampung</p>
+                  </div>
+                  <div class="contact_d_list_item">
+                    <p>Open hours: 8.00-18.00 Senin-Jumat <br />Minggu : Tutup </p>
+                  </div>
+                </div>
+                <div class="static_social">
+                  <div class="main_title">
+                    <h2>Follow Us:</h2>
+                    <a href=""><i class="fab fa-facebook-square"></i></a>
+                    <a href=""><i class="fab fa-twitter-square"></i></a>
+                    <a href=""><i class="fab fa-linkedin"></i></a>
+                    <a href=""><i class="fab fa-skype"></i></a>
+                    <a href=""><i class="fab fa-youtube"></i></a>
+                  </div>              
+                </div>
               </div>
-              <div class="row">
-                <div class="col-md-12">      
             </div>
-          </div>
+         </div>
         </div>
       </div>
     </div>
