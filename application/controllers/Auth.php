@@ -6,50 +6,59 @@ class Auth extends CI_Controller {
         $this->load->model('AuthModel');
         $this->load->library('form_validation');
     }
-    public function beranda(){
-        $this->load->view('beranda');
+    public function index(){
+        $this->load->view('index');
     }
-    public function about(){
-        $this->load->view('about');
-    }
-    public function ourteam(){
-        $this->load->view('ourteam');
-    }
-    public function panduan(){
-        $this->load->view('panduan');
-    }
-    public function contact(){
-        $this->load->view('contact');
-    }
-    public function ourproduct(){
-        $this->load->view('ourproduct');
-    }
-    public function mainclass(){
-        $this->load->view('mainclass');
-    }
-    public function kelas1(){
+    public function kelas1()
+    {
         $this->load->view('kelas1');
     }
-    public function kelas2(){
+    public function kelas2()
+    {
         $this->load->view('kelas2');
     }
-    public function kelas3(){
+    public function kelas3()
+    {
         $this->load->view('kelas3');
     }
-    public function kelas4(){
+    public function kelas4()
+    {
         $this->load->view('kelas4');
     }
-    public function kelas5(){
+    public function kelas5()
+    {
         $this->load->view('kelas5');
     }
-    public function kelas6(){
+    public function kelas6()
+    {
         $this->load->view('kelas6');
+    }
+    public function about()
+    {
+        $this->load->view('about');
+    }
+    public function kontak()
+    {
+        $this->load->view('kontak');
+    }
+    public function ourfitur()
+    {
+        $this->load->view('ourfitur');
+    }
+    public function ourteam()
+    {
+        $this->load->view('ourteam');
+    }
+    public function panduan()
+    {
+        $this->load->view('panduan');
+    }
+    public function syarat_ketentuan()
+    {
+        $this->load->view('syarat dan ketentuan');
     }
     public function login(){
         $this->load->view('login');
-    }
-    public function syarat_ketentuan(){
-        $this->load->view('syarat_ketentuan');
     }
     public function proses_login(){
         $this->form_validation->set_rules('email', 'Email', 'required');
@@ -69,7 +78,7 @@ class Auth extends CI_Controller {
                     $session['logged_in'] = TRUE;
                     $this->session->set_userdata($session);
 
-                    redirect('auth/mainclass');
+                    redirect('auth/ourfitur');
 
                 } else {
                     echo "Maaf password yang anda masukkan salah";
